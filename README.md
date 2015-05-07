@@ -1,2 +1,2 @@
-# HouseWorkshop
-社内勉強会の資料を置いていきます。
+# Git
+Git に関する資料です
